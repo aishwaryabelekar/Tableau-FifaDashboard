@@ -1,6 +1,3 @@
-# TableauDashboard
-Tableau Dashboard - European Football
-
 # Tableau Football Dashboard
 
 ## Introduction
